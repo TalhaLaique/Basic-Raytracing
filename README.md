@@ -1,3 +1,5 @@
+## General Info
+This repository contains code for basic raytracing routine. All the code is available in 'code' directory.
 
 ## Compiling
 
@@ -7,7 +9,7 @@
 
 ## Additional Instruction
 
-1. Please Copy lowresol.off in the build folder.
+1. Please Copy lowresol.off in the 'build' folder.
 
 # Code Execution 
 
