@@ -1,15 +1,14 @@
-#CodeBase_RayTracing
 
 ## Compiling
 
-mkdir build
-cd build
-cmake ..
+1. mkdir build
+2. cd build
+3. cmake ..
 
 ## Additional Instruction
 
-Please Copy lowresol.off in the build folder.
+1. Please Copy lowresol.off in the build folder.
 
-# Running 
+# Code Execution 
 
 ./MyRayTracer
